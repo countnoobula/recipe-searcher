@@ -1,0 +1,34 @@
+.homeGrid {
+	width: 80%; 
+	margin: 10px auto;
+}
+
+.homeBlock {
+	background: #EEE;
+	border: 1px solid #CCC;
+}
+.homeBlock img {
+	width:100%;
+}
+.homeBlock h3 {
+	width: 100%;
+	text-align: center;
+}
+
+.search-results {
+	padding: 10px;
+}
+
+.search-entry {
+	border: 1px solid #CCC;
+	background: #EEE;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+.search-entry img {
+	width: 100%;
+	height: 166px;
+}
+.search-entry .category small {
+	font-size: 100%;
+}
